@@ -4,5 +4,5 @@
 Dupla: Anthony e Enzo.
 
 Atividade: A partir de um dataset -\
-1)Limpar e analisar conjunto de dados.\
-2)Gerar dashboard com PowerBI.
+1)Limpar e fazer simples análise de um conjunto de dados.\
+2)Gerar um dashboard com a ferramenta PowerBI.
